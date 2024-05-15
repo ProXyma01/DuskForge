@@ -38,6 +38,7 @@
  
 # NOTE
 1) იმ შემთხვევაში თუ გადმოწერილი პაჩები თამაშშის დაქრაშავს ან ტექსტურებს გაბაგავს მაგ:
+   
 ![alt text](https://i.imgur.com/sq3qr.jpeg)
 ![alt text](https://i.imgur.com/DlmD50Z.jpeg)
 
