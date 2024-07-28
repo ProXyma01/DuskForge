@@ -52,6 +52,7 @@ class Utils:
         return {}
 
     def launch_wow(self):
+        self.config = self.load_config() # update config file
         choose_location = self.config.get("default")
         if not choose_location:
             if self.lang_manager.current_language == "en":
