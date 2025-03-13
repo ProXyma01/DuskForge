@@ -2,7 +2,7 @@
 
 DuskForge is a Python-based tool designed to simplify downloading and installing addons and patches for *World of Warcraft* (version 3.3.5a). With an intuitive GUI, it allows users to manage WoW addons, patches, and server settings effortlessly.
 
-![DuskForge Screenshot](https://github.com/ProXyma01/DuskForge/assets/50544553/ea854d74-0092-405c-86e7-c549c44235d4)
+![dusk](https://github.com/user-attachments/assets/256fa943-0d9b-4644-a6be-4d24f69dbe87)
 
 ## Features
 - **Addon Management**: Download and install WoW addons with tooltips showing previews on hover.
